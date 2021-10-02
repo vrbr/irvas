@@ -14000,10 +14000,11 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
 
 /***/ }),
 
+
 /***/ "./src/js/main.js":
 /*!************************!*\
   !*** ./src/js/main.js ***!
-  \************************/
+
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -14100,6 +14101,10 @@ jquery__WEBPACK_IMPORTED_MODULE_0___default()(document).ready(function () {
     }]
   });
 });
+
+/*! no static exports found */
+/***/ (function(module, exports) {
+
 
 /***/ })
 

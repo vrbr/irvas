@@ -1,3 +1,6 @@
 import './slider';
+import modals from './modules/modals'
 
-console.log('qwerty');
+window.addEventListener('DOMContentLoaded', () => {
+    modals();
+});
